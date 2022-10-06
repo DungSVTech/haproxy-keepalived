@@ -2,8 +2,6 @@
 
 Using Docker, Keepalived and HAProxy with NGINX server as a web application.
 
-Note: Cloud environments require manual configuration for creating/attaching/detaching Floating IP. For AWS see `aws/keepalived/notify.sh`.
-
 ## Set-up
 
 ```sh

@@ -1,6 +1,6 @@
 # Highly Available Load Balancing with Floating IP
 
-Using Docker, Keepalived and HAProxy with NGINX server as a web application.
+Using Docker, Keepalived and HAProxy.
 
 ## Set-up
 
